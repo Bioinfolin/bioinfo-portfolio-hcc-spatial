@@ -1,0 +1,19 @@
+# 数据与输出（保密：不进入仓库）
+00_Rawdata/
+*.h5ad
+*.gef
+*.RDS
+*.qs2
+**/checkpoints/
+**/output/
+**/plots/
+
+# 日志与临时文件
+*.log
+*.pid
+.Rhistory
+.RData
+.Rproj.user/
+
+# 系统文件
+.DS_Store
